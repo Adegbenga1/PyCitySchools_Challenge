@@ -13,7 +13,8 @@ There had been an evidence of academic dishonesty; specifically, in reading and 
     •	Passing reading percentage = 86.73%
     •	Overall passing percentage = 64.79%
     ![Districts Summary](https://user-images.githubusercontent.com/70987568/126925336-e6da9a04-5791-472a-803b-c5b3df53af92.png)![School Summary](https://user-i
-
+    
+    ![Replacement of reading and math scores with NaN](https://user-images.githubusercontent.com/70987568/126928654-54ad5687-818a-494b-b39b-4147439fc1f6.png)
 School summary 
     •	Student count  = 38750
     •	Passing Maths number = 28939
@@ -22,6 +23,8 @@ School summary
     •	Passing reading percentage = 93,2%
     •	Overall passing percentage = 90.66%
     ![School Summary](https://user-images.githubusercontent.com/70987568/126925897-057e9059-1956-4264-bc3d-f017de39e14e.png)
+    
+
     
  # Relative performance
  •	Thomas High School’s performance relative to the other schools improved tremendously after replacement of math and reading scores with gross impacts on budget and per capita
