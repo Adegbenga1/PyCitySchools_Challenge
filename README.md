@@ -13,8 +13,8 @@ There had been an evidence of academic dishonesty; specifically, in reading and 
     •	Passing reading percentage = 86.73%
     •	Overall passing percentage = 64.79%
     ![Districts Summary](https://user-images.githubusercontent.com/70987568/126925336-e6da9a04-5791-472a-803b-c5b3df53af92.png)![School Summary](https://user-i
+    ![Replacement of reading and math scores with NaN](https://user-images.githubusercontent.com/70987568/126928741-2b942f85-62b4-480c-bbb2-53942feb6668.png)
     
-    ![Replacement of reading and math scores with NaN](https://user-images.githubusercontent.com/70987568/126928654-54ad5687-818a-494b-b39b-4147439fc1f6.png)
 School summary 
     •	Student count  = 38750
     •	Passing Maths number = 28939
