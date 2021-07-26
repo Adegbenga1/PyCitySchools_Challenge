@@ -37,10 +37,9 @@ School summary
   .Scores by school spending
     ![Scores By School Spending](https://user-images.githubusercontent.com/70987568/126927911-300505ca-5730-4fa3-96c4-e0ad613a7511.png)
 
-  
   •	Scores by school size
-   ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126927098-e84cfce7-6843-41bb-ab24-9b53d35548ef.png
-  
+   ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126928012-bb896d68-7615-414f-b559-0b2900a7ebbb.png)
+
   •	Scores by school type
     ![School by Type Summary](https://user-images.githubusercontent.com/70987568/126927138-5f50c263-4b5f-44f5-87a9-15d9b4516c34.png)
 
