@@ -32,16 +32,16 @@ School summary
   
 •	Math and reading scores by grade
   ![Math Scores by Grade](https://user-images.githubusercontent.com/70987568/126927525-5cc06f8d-9547-491e-8060-597537acf917.png)
-   ![Reading scores by Grade](https://user-images.githubusercontent.com/70987568/126927555-4c6c44c0-59ad-4cd9-b201-17362e4bb628.png)
+  ![Reading scores by Grade](https://user-images.githubusercontent.com/70987568/126927555-4c6c44c0-59ad-4cd9-b201-17362e4bb628.png)
    
   .Scores by school spending
-  ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126927054-2c521822-0e13-46a7-8a42-3ef156fd3754.png)
+    ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126927054-2c521822-0e13-46a7-8a42-3ef156fd3754.png)
   
   •	Scores by school size
-  ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126927098-e84cfce7-6843-41bb-ab24-9b53d35548ef.png
+   ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126927098-e84cfce7-6843-41bb-ab24-9b53d35548ef.png
   
   •	Scores by school type
-  ![School by Type Summary](https://user-images.githubusercontent.com/70987568/126927138-5f50c263-4b5f-44f5-87a9-15d9b4516c34.png)
+    ![School by Type Summary](https://user-images.githubusercontent.com/70987568/126927138-5f50c263-4b5f-44f5-87a9-15d9b4516c34.png)
 
 # Summary
 The four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
