@@ -35,7 +35,8 @@ School summary
   ![Reading scores by Grade](https://user-images.githubusercontent.com/70987568/126927555-4c6c44c0-59ad-4cd9-b201-17362e4bb628.png)
    
   .Scores by school spending
-    ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126927054-2c521822-0e13-46a7-8a42-3ef156fd3754.png)
+    ![Scores By School Spending](https://user-images.githubusercontent.com/70987568/126927911-300505ca-5730-4fa3-96c4-e0ad613a7511.png)
+
   
   •	Scores by school size
    ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126927098-e84cfce7-6843-41bb-ab24-9b53d35548ef.png
