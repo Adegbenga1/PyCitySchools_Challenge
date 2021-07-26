@@ -41,8 +41,8 @@ School summary
    ![Scores By School Size](https://user-images.githubusercontent.com/70987568/126928012-bb896d68-7615-414f-b559-0b2900a7ebbb.png)
 
   •	Scores by school type
-  
-    ![School by Type Summary](https://user-images.githubusercontent.com/70987568/126928118-2e790ab5-56c6-4541-b919-344046df5322.png)
+   ![School by Type Summary](https://user-images.githubusercontent.com/70987568/126928234-bee74e6c-cc74-4f12-906e-967e3165f47b.png)
+
 
 
 # Summary
